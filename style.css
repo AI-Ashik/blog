@@ -109,15 +109,11 @@ border: 1px solid #fff;
 }
 
 #menu-icon{
-
   display: none;
 }
 
 #menu-icon:hover{
-
-background-color: grey;
-
-
+background-color:grey;
 }
 
 nav li{
